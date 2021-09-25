@@ -1,1 +1,1 @@
-# Simple Classifier (2 Classes) by PyTorch framework.
+# Simple Classifier (2 Classes) using PyTorch framework.
